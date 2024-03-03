@@ -1,0 +1,868 @@
+Fetch is accurate for instruction 0
+Fetch is accurate for instruction 1
+Decoder is accurate for instruction 0
+Fetch is accurate for instruction 2
+Decoder is accurate for instruction 1
+Alu is accurate for instruction 0
+Fetch is accurate for instruction 3
+Decoder is accurate for instruction 2
+Alu is accurate for instruction 1
+Fetch is accurate for instruction 4
+Decoder is accurate for instruction 3
+Alu is accurate for instruction 2
+WB is accurate for instruction 0
+Fetch is accurate for instruction 5
+Decoder is accurate for instruction 4
+Alu is accurate for instruction 3
+WB is accurate for instruction 1
+Fetch is accurate for instruction 6
+Decoder is accurate for instruction 5
+Alu is accurate for instruction 4
+WB is accurate for instruction 2
+Fetch is accurate for instruction 7
+Decoder is accurate for instruction 6
+Alu is accurate for instruction 5
+WB is accurate for instruction 3
+Fetch is accurate for instruction 8
+Decoder is accurate for instruction 7
+Alu is accurate for instruction 6
+WB is accurate for instruction 4
+Fetch is accurate for instruction 9
+Decoder is accurate for instruction 8
+Alu is accurate for instruction 7
+WB is accurate for instruction 5
+Fetch is accurate for instruction 10
+Decoder is accurate for instruction 9
+Alu is accurate for instruction 8
+WB is accurate for instruction 6
+Fetch is accurate for instruction 11
+Decoder is accurate for instruction 10
+Alu is accurate for instruction 9
+WB is accurate for instruction 7
+Fetch is accurate for instruction 12
+Decoder is accurate for instruction 11
+Alu is accurate for instruction 10
+WB is accurate for instruction 8
+Fetch is accurate for instruction 13
+Decoder is accurate for instruction 12
+Alu is accurate for instruction 11
+WB is accurate for instruction 9
+Fetch is accurate for instruction 14
+Decoder is accurate for instruction 13
+Alu is accurate for instruction 12
+WB is accurate for instruction 10
+Fetch is accurate for instruction 15
+Decoder is accurate for instruction 14
+Alu is accurate for instruction 13
+WB is accurate for instruction 11
+Fetch is accurate for instruction 16
+Decoder is accurate for instruction 15
+Alu is accurate for instruction 14
+WB is accurate for instruction 12
+Fetch is accurate for instruction 17
+Decoder is accurate for instruction 16
+Alu is accurate for instruction 15
+WB is accurate for instruction 13
+Fetch is accurate for instruction 18
+Decoder is accurate for instruction 17
+Alu is accurate for instruction 16
+WB is accurate for instruction 14
+Fetch is accurate for instruction 19
+Decoder is accurate for instruction 18
+Alu is accurate for instruction 17
+WB is accurate for instruction 15
+Fetch is accurate for instruction 20
+Decoder is accurate for instruction 19
+Alu is accurate for instruction 18
+WB is accurate for instruction 16
+Fetch is accurate for instruction 21
+Decoder is accurate for instruction 20
+Alu is accurate for instruction 19
+WB is accurate for instruction 17
+Fetch is accurate for instruction 22
+Decoder is accurate for instruction 21
+Alu is accurate for instruction 20
+WB is accurate for instruction 18
+Fetch is accurate for instruction 23
+Decoder is accurate for instruction 22
+Alu is accurate for instruction 21
+WB is accurate for instruction 19
+Fetch is accurate for instruction 24
+Decoder is accurate for instruction 23
+Alu is accurate for instruction 22
+WB is accurate for instruction 20
+Fetch is accurate for instruction 25
+Decoder is accurate for instruction 24
+Alu is accurate for instruction 23
+WB is accurate for instruction 21
+Fetch is accurate for instruction 26
+Decoder is accurate for instruction 25
+Alu is accurate for instruction 24
+WB is accurate for instruction 22
+Fetch is accurate for instruction 27
+Decoder is accurate for instruction 26
+Alu is accurate for instruction 25
+WB is accurate for instruction 23
+Fetch is accurate for instruction 28
+Decoder is accurate for instruction 27
+Alu is accurate for instruction 26
+WB is accurate for instruction 24
+Fetch is accurate for instruction 29
+Decoder is accurate for instruction 28
+Alu is accurate for instruction 27
+WB is accurate for instruction 25
+Fetch is accurate for instruction 30
+Decoder is accurate for instruction 29
+Alu is accurate for instruction 28
+WB is accurate for instruction 26
+Fetch is accurate for instruction 31
+Decoder is accurate for instruction 30
+Alu is accurate for instruction 29
+WB is accurate for instruction 27
+Fetch is accurate for instruction 32
+Decoder is accurate for instruction 31
+Alu is accurate for instruction 30
+WB is accurate for instruction 28
+Fetch is accurate for instruction 33
+Decoder is accurate for instruction 32
+Alu is accurate for instruction 31
+WB is accurate for instruction 29
+Fetch is accurate for instruction 34
+Decoder is accurate for instruction 33
+Alu is accurate for instruction 32
+WB is accurate for instruction 30
+Fetch is accurate for instruction 35
+Decoder is accurate for instruction 34
+Alu is accurate for instruction 33
+Fetch is accurate for instruction 36
+Decoder is accurate for instruction 35
+Alu is accurate for instruction 34
+Fetch is accurate for instruction 37
+Decoder is accurate for instruction 36
+Alu is accurate for instruction 35
+Fetch is accurate for instruction 38
+Decoder is accurate for instruction 37
+Alu is accurate for instruction 36
+Fetch is accurate for instruction 39
+Decoder is accurate for instruction 38
+Alu is accurate for instruction 37
+Fetch is accurate for instruction 40
+Decoder is accurate for instruction 39
+Alu is accurate for instruction 38
+Fetch is accurate for instruction 41
+Decoder is accurate for instruction 40
+Alu is accurate for instruction 39
+Fetch is accurate for instruction 42
+Decoder is accurate for instruction 41
+Alu is accurate for instruction 40
+Fetch is accurate for instruction 43
+Decoder is accurate for instruction 42
+Alu is accurate for instruction 41
+Fetch is accurate for instruction 44
+Decoder is accurate for instruction 43
+Alu is accurate for instruction 42
+Fetch is accurate for instruction 45
+Decoder is accurate for instruction 44
+Alu is accurate for instruction 43
+Fetch is accurate for instruction 46
+Decoder is accurate for instruction 45
+Alu is accurate for instruction 44
+Fetch is accurate for instruction 47
+Decoder is accurate for instruction 46
+Alu is accurate for instruction 45
+Fetch is accurate for instruction 48
+Decoder is accurate for instruction 47
+Alu is accurate for instruction 46
+Fetch is accurate for instruction 49
+Decoder is accurate for instruction 48
+Alu is accurate for instruction 47
+Fetch is accurate for instruction 50
+Decoder is accurate for instruction 49
+Alu is accurate for instruction 48
+Fetch is accurate for instruction 51
+Decoder is accurate for instruction 50
+Alu is accurate for instruction 49
+Fetch is accurate for instruction 52
+Decoder is accurate for instruction 51
+Alu is accurate for instruction 50
+Fetch is accurate for instruction 53
+Decoder is accurate for instruction 52
+Alu is accurate for instruction 51
+Fetch is accurate for instruction 54
+Decoder is accurate for instruction 53
+Alu is accurate for instruction 52
+Fetch is accurate for instruction 55
+Decoder is accurate for instruction 54
+Alu is accurate for instruction 53
+Fetch is accurate for instruction 56
+Decoder is accurate for instruction 55
+Alu is accurate for instruction 54
+Fetch is accurate for instruction 57
+Decoder is accurate for instruction 56
+Alu is accurate for instruction 55
+Fetch is accurate for instruction 58
+Decoder is accurate for instruction 57
+Alu is accurate for instruction 56
+Fetch is accurate for instruction 59
+Decoder is accurate for instruction 58
+Alu is accurate for instruction 57
+Fetch is accurate for instruction 60
+Decoder is accurate for instruction 59
+Alu is accurate for instruction 58
+Fetch is accurate for instruction 61
+Decoder is accurate for instruction 60
+Alu is accurate for instruction 59
+Fetch is accurate for instruction 62
+Decoder is accurate for instruction 61
+Alu is accurate for instruction 60
+Fetch is accurate for instruction 63
+Decoder is accurate for instruction 62
+Alu is accurate for instruction 61
+Fetch is accurate for instruction 64
+Decoder is accurate for instruction 63
+Alu is accurate for instruction 62
+Fetch is accurate for instruction 65
+Decoder is accurate for instruction 64
+Alu is accurate for instruction 63
+Fetch is accurate for instruction 66
+Decoder is accurate for instruction 65
+Alu is accurate for instruction 64
+Fetch is accurate for instruction 67
+Decoder is accurate for instruction 66
+Alu is accurate for instruction 65
+Fetch is accurate for instruction 68
+Decoder is accurate for instruction 67
+Alu is accurate for instruction 66
+Fetch is accurate for instruction 69
+Decoder is accurate for instruction 68
+Alu is accurate for instruction 67
+Fetch is accurate for instruction 70
+Decoder is accurate for instruction 69
+Alu is accurate for instruction 68
+Fetch is accurate for instruction 71
+Decoder is accurate for instruction 70
+Alu is accurate for instruction 69
+Fetch is accurate for instruction 72
+Decoder is accurate for instruction 71
+Alu is accurate for instruction 70
+Fetch is accurate for instruction 73
+Decoder is accurate for instruction 72
+Alu is accurate for instruction 71
+Fetch is accurate for instruction 74
+Decoder is accurate for instruction 73
+Alu is accurate for instruction 72
+Fetch is accurate for instruction 75
+Decoder is accurate for instruction 74
+Alu is accurate for instruction 73
+Fetch is accurate for instruction 76
+Decoder is accurate for instruction 75
+Alu is accurate for instruction 74
+Fetch is accurate for instruction 77
+Decoder is accurate for instruction 76
+Alu is accurate for instruction 75
+Fetch is accurate for instruction 78
+Decoder is accurate for instruction 77
+Alu is accurate for instruction 76
+Fetch is accurate for instruction 79
+Decoder is accurate for instruction 78
+Alu is accurate for instruction 77
+Fetch is accurate for instruction 80
+Decoder is accurate for instruction 79
+Alu is accurate for instruction 78
+Fetch is accurate for instruction 81
+Decoder is accurate for instruction 80
+Alu is accurate for instruction 79
+Fetch is accurate for instruction 82
+Decoder is accurate for instruction 81
+Alu is accurate for instruction 80
+Fetch is accurate for instruction 83
+Decoder is accurate for instruction 82
+Alu is accurate for instruction 81
+Fetch is accurate for instruction 84
+Decoder is accurate for instruction 83
+Alu is accurate for instruction 82
+Fetch is accurate for instruction 85
+Decoder is accurate for instruction 84
+Alu is accurate for instruction 83
+Fetch is accurate for instruction 86
+Decoder is accurate for instruction 85
+Alu is accurate for instruction 84
+Fetch is accurate for instruction 87
+Decoder is accurate for instruction 86
+Alu is accurate for instruction 85
+Fetch is accurate for instruction 88
+Decoder is accurate for instruction 87
+Alu is accurate for instruction 86
+Fetch is accurate for instruction 89
+Decoder is accurate for instruction 88
+Alu is accurate for instruction 87
+Fetch is accurate for instruction 90
+Decoder is accurate for instruction 89
+Alu is accurate for instruction 88
+Fetch is accurate for instruction 91
+Decoder is accurate for instruction 90
+Alu is accurate for instruction 89
+Fetch is accurate for instruction 92
+Decoder is accurate for instruction 91
+Alu is accurate for instruction 90
+Fetch is accurate for instruction 93
+Decoder is accurate for instruction 92
+Alu is accurate for instruction 91
+Fetch is accurate for instruction 94
+Decoder is accurate for instruction 93
+Alu is accurate for instruction 92
+Fetch is accurate for instruction 95
+Decoder is accurate for instruction 94
+Alu is accurate for instruction 93
+Fetch is accurate for instruction 96
+Decoder is accurate for instruction 95
+Alu is accurate for instruction 94
+Fetch is accurate for instruction 97
+Decoder is accurate for instruction 96
+Alu is accurate for instruction 95
+Fetch is accurate for instruction 98
+Decoder is accurate for instruction 97
+Alu is accurate for instruction 96
+Fetch is accurate for instruction 99
+Decoder is accurate for instruction 98
+Alu is accurate for instruction 97
+Fetch is accurate for instruction 100
+Decoder is accurate for instruction 99
+Alu is accurate for instruction 98
+Fetch is accurate for instruction 101
+Decoder is accurate for instruction 100
+Alu is accurate for instruction 99
+Fetch is accurate for instruction 102
+Decoder is accurate for instruction 101
+Alu is accurate for instruction 100
+Fetch is accurate for instruction 103
+Decoder is accurate for instruction 102
+Alu is accurate for instruction 101
+Fetch is accurate for instruction 104
+Decoder is accurate for instruction 103
+Alu is accurate for instruction 102
+Fetch is accurate for instruction 105
+Decoder is accurate for instruction 104
+Alu is accurate for instruction 103
+Fetch is accurate for instruction 106
+Decoder is accurate for instruction 105
+Alu is accurate for instruction 104
+Fetch is accurate for instruction 107
+Decoder is accurate for instruction 106
+Alu is accurate for instruction 105
+Fetch is accurate for instruction 108
+Decoder is accurate for instruction 107
+Alu is accurate for instruction 106
+Fetch is accurate for instruction 109
+Decoder is accurate for instruction 108
+Alu is accurate for instruction 107
+Fetch is accurate for instruction 110
+Decoder is accurate for instruction 109
+Alu is accurate for instruction 108
+Fetch is accurate for instruction 111
+Decoder is accurate for instruction 110
+Alu is accurate for instruction 109
+Fetch is accurate for instruction 112
+Decoder is accurate for instruction 111
+Alu is accurate for instruction 110
+Fetch is accurate for instruction 113
+Decoder is accurate for instruction 112
+Alu is accurate for instruction 111
+Fetch is accurate for instruction 114
+Decoder is accurate for instruction 113
+Alu is accurate for instruction 112
+Fetch is accurate for instruction 115
+Decoder is accurate for instruction 114
+Alu is accurate for instruction 113
+Fetch is accurate for instruction 116
+Decoder is accurate for instruction 115
+Alu is accurate for instruction 114
+Fetch is accurate for instruction 117
+Decoder is accurate for instruction 116
+Alu is accurate for instruction 115
+Fetch is accurate for instruction 118
+Decoder is accurate for instruction 117
+Alu is accurate for instruction 116
+Fetch is accurate for instruction 119
+Decoder is accurate for instruction 118
+Alu is accurate for instruction 117
+Fetch is accurate for instruction 120
+Decoder is accurate for instruction 119
+Alu is accurate for instruction 118
+Fetch is accurate for instruction 121
+Decoder is accurate for instruction 120
+Alu is accurate for instruction 119
+Fetch is accurate for instruction 122
+Decoder is accurate for instruction 121
+Alu is accurate for instruction 120
+Fetch is accurate for instruction 123
+Decoder is accurate for instruction 122
+Alu is accurate for instruction 121
+Fetch is accurate for instruction 124
+Decoder is accurate for instruction 123
+Alu is accurate for instruction 122
+Fetch is accurate for instruction 125
+Decoder is accurate for instruction 124
+Alu is accurate for instruction 123
+Fetch is accurate for instruction 126
+Decoder is accurate for instruction 125
+Alu is accurate for instruction 124
+memory rd/wr is accurate for instruction 124
+Fetch is accurate for instruction 127
+Decoder is accurate for instruction 126
+Alu is accurate for instruction 125
+Fetch is accurate for instruction 128
+memory rd/wr is accurate for instruction 125
+Decoder is accurate for instruction 127
+Alu is accurate for instruction 126
+WB is accurate for instruction 124
+memory rd/wr is accurate for instruction 126
+Fetch is accurate for instruction 129
+Decoder is accurate for instruction 128
+Alu is accurate for instruction 127
+WB is accurate for instruction 125
+Fetch is accurate for instruction 130
+memory rd/wr is accurate for instruction 127
+Decoder is accurate for instruction 129
+Alu is accurate for instruction 128
+WB is accurate for instruction 126
+memory rd/wr is accurate for instruction 128
+Fetch is accurate for instruction 131
+Decoder is accurate for instruction 130
+Alu is accurate for instruction 129
+WB is accurate for instruction 127
+Fetch is accurate for instruction 132
+memory rd/wr is accurate for instruction 129
+Decoder is accurate for instruction 131
+Alu is accurate for instruction 130
+WB is accurate for instruction 128
+memory rd/wr is accurate for instruction 130
+Fetch is accurate for instruction 133
+Decoder is accurate for instruction 132
+Alu is accurate for instruction 131
+WB is accurate for instruction 129
+Fetch is accurate for instruction 134
+memory rd/wr is accurate for instruction 131
+Decoder is accurate for instruction 133
+Alu is accurate for instruction 132
+WB is accurate for instruction 130
+memory rd/wr is accurate for instruction 132
+Fetch is accurate for instruction 135
+Decoder is accurate for instruction 134
+Alu is accurate for instruction 133
+WB is accurate for instruction 131
+Fetch is accurate for instruction 136
+memory rd/wr is accurate for instruction 133
+Decoder is accurate for instruction 135
+Alu is accurate for instruction 134
+WB is accurate for instruction 132
+memory rd/wr is accurate for instruction 134
+Fetch is accurate for instruction 137
+Decoder is accurate for instruction 136
+Alu is accurate for instruction 135
+WB is accurate for instruction 133
+Fetch is accurate for instruction 138
+memory rd/wr is accurate for instruction 135
+Decoder is accurate for instruction 137
+Alu is accurate for instruction 136
+WB is accurate for instruction 134
+memory rd/wr is accurate for instruction 136
+Fetch is accurate for instruction 139
+Decoder is accurate for instruction 138
+Alu is accurate for instruction 137
+WB is accurate for instruction 135
+Fetch is accurate for instruction 140
+memory rd/wr is accurate for instruction 137
+Decoder is accurate for instruction 139
+Alu is accurate for instruction 138
+WB is accurate for instruction 136
+memory rd/wr is accurate for instruction 138
+Fetch is accurate for instruction 141
+Decoder is accurate for instruction 140
+Alu is accurate for instruction 139
+WB is accurate for instruction 137
+Fetch is accurate for instruction 142
+memory rd/wr is accurate for instruction 139
+Decoder is accurate for instruction 141
+Alu is accurate for instruction 140
+WB is accurate for instruction 138
+memory rd/wr is accurate for instruction 140
+Fetch is accurate for instruction 143
+Decoder is accurate for instruction 142
+Alu is accurate for instruction 141
+WB is accurate for instruction 139
+Fetch is accurate for instruction 144
+memory rd/wr is accurate for instruction 141
+Decoder is accurate for instruction 143
+Alu is accurate for instruction 142
+WB is accurate for instruction 140
+memory rd/wr is accurate for instruction 142
+Fetch is accurate for instruction 145
+Decoder is accurate for instruction 144
+Alu is accurate for instruction 143
+WB is accurate for instruction 141
+Fetch is accurate for instruction 146
+memory rd/wr is accurate for instruction 143
+Decoder is accurate for instruction 145
+Alu is accurate for instruction 144
+WB is accurate for instruction 142
+memory rd/wr is accurate for instruction 144
+Fetch is accurate for instruction 147
+Decoder is accurate for instruction 146
+Alu is accurate for instruction 145
+WB is accurate for instruction 143
+Fetch is accurate for instruction 148
+memory rd/wr is accurate for instruction 145
+Decoder is accurate for instruction 147
+Alu is accurate for instruction 146
+WB is accurate for instruction 144
+memory rd/wr is accurate for instruction 146
+Fetch is accurate for instruction 149
+Decoder is accurate for instruction 148
+Alu is accurate for instruction 147
+WB is accurate for instruction 145
+Fetch is accurate for instruction 150
+memory rd/wr is accurate for instruction 147
+Decoder is accurate for instruction 149
+Alu is accurate for instruction 148
+WB is accurate for instruction 146
+memory rd/wr is accurate for instruction 148
+Fetch is accurate for instruction 151
+Decoder is accurate for instruction 150
+Alu is accurate for instruction 149
+WB is accurate for instruction 147
+Fetch is accurate for instruction 152
+memory rd/wr is accurate for instruction 149
+Decoder is accurate for instruction 151
+Alu is accurate for instruction 150
+WB is accurate for instruction 148
+memory rd/wr is accurate for instruction 150
+Fetch is accurate for instruction 153
+Decoder is accurate for instruction 152
+Alu is accurate for instruction 151
+WB is accurate for instruction 149
+Fetch is accurate for instruction 154
+memory rd/wr is accurate for instruction 151
+Decoder is accurate for instruction 153
+Alu is accurate for instruction 152
+WB is accurate for instruction 150
+memory rd/wr is accurate for instruction 152
+Fetch is accurate for instruction 155
+Decoder is accurate for instruction 154
+Alu is accurate for instruction 153
+WB is accurate for instruction 151
+Fetch is accurate for instruction 156
+memory rd/wr is accurate for instruction 153
+Decoder is accurate for instruction 155
+Alu is accurate for instruction 154
+WB is accurate for instruction 152
+memory rd/wr is accurate for instruction 154
+Fetch is accurate for instruction 157
+Decoder is accurate for instruction 156
+Alu is accurate for instruction 155
+WB is accurate for instruction 153
+Fetch is accurate for instruction 158
+memory rd/wr is accurate for instruction 155
+Decoder is accurate for instruction 157
+Alu is accurate for instruction 156
+WB is accurate for instruction 154
+memory rd/wr is accurate for instruction 156
+Fetch is accurate for instruction 159
+Decoder is accurate for instruction 158
+Alu is accurate for instruction 157
+WB is accurate for instruction 155
+Fetch is accurate for instruction 160
+memory rd/wr is accurate for instruction 157
+Decoder is accurate for instruction 159
+Alu is accurate for instruction 158
+WB is accurate for instruction 156
+memory rd/wr is accurate for instruction 158
+Fetch is accurate for instruction 161
+Decoder is accurate for instruction 160
+Alu is accurate for instruction 159
+WB is accurate for instruction 157
+Fetch is accurate for instruction 162
+memory rd/wr is accurate for instruction 159
+Decoder is accurate for instruction 161
+Alu is accurate for instruction 160
+WB is accurate for instruction 158
+memory rd/wr is accurate for instruction 160
+Fetch is accurate for instruction 163
+Decoder is accurate for instruction 162
+Alu is accurate for instruction 161
+WB is accurate for instruction 159
+Fetch is accurate for instruction 164
+memory rd/wr is accurate for instruction 161
+Decoder is accurate for instruction 163
+Alu is accurate for instruction 162
+WB is accurate for instruction 160
+memory rd/wr is accurate for instruction 162
+Fetch is accurate for instruction 165
+Decoder is accurate for instruction 164
+Alu is accurate for instruction 163
+WB is accurate for instruction 161
+Fetch is accurate for instruction 166
+memory rd/wr is accurate for instruction 163
+Decoder is accurate for instruction 165
+Alu is accurate for instruction 164
+WB is accurate for instruction 162
+memory rd/wr is accurate for instruction 164
+Fetch is accurate for instruction 167
+Decoder is accurate for instruction 166
+Alu is accurate for instruction 165
+WB is accurate for instruction 163
+Fetch is accurate for instruction 168
+memory rd/wr is accurate for instruction 165
+Decoder is accurate for instruction 167
+Alu is accurate for instruction 166
+WB is accurate for instruction 164
+memory rd/wr is accurate for instruction 166
+Fetch is accurate for instruction 169
+Decoder is accurate for instruction 168
+Alu is accurate for instruction 167
+WB is accurate for instruction 165
+Fetch is accurate for instruction 170
+memory rd/wr is accurate for instruction 167
+Decoder is accurate for instruction 169
+Alu is accurate for instruction 168
+WB is accurate for instruction 166
+memory rd/wr is accurate for instruction 168
+Fetch is accurate for instruction 171
+Decoder is accurate for instruction 170
+Alu is accurate for instruction 169
+WB is accurate for instruction 167
+Fetch is accurate for instruction 172
+memory rd/wr is accurate for instruction 169
+Decoder is accurate for instruction 171
+Alu is accurate for instruction 170
+WB is accurate for instruction 168
+memory rd/wr is accurate for instruction 170
+Fetch is accurate for instruction 173
+Decoder is accurate for instruction 172
+Alu is accurate for instruction 171
+WB is accurate for instruction 169
+Fetch is accurate for instruction 174
+memory rd/wr is accurate for instruction 171
+Decoder is accurate for instruction 173
+Alu is accurate for instruction 172
+WB is accurate for instruction 170
+memory rd/wr is accurate for instruction 172
+Fetch is accurate for instruction 175
+Decoder is accurate for instruction 174
+Alu is accurate for instruction 173
+WB is accurate for instruction 171
+Fetch is accurate for instruction 176
+memory rd/wr is accurate for instruction 173
+Decoder is accurate for instruction 175
+Alu is accurate for instruction 174
+WB is accurate for instruction 172
+memory rd/wr is accurate for instruction 174
+Fetch is accurate for instruction 177
+Decoder is accurate for instruction 176
+Alu is accurate for instruction 175
+WB is accurate for instruction 173
+Fetch is accurate for instruction 178
+memory rd/wr is accurate for instruction 175
+Decoder is accurate for instruction 177
+Alu is accurate for instruction 176
+WB is accurate for instruction 174
+memory rd/wr is accurate for instruction 176
+Fetch is accurate for instruction 179
+Decoder is accurate for instruction 178
+Alu is accurate for instruction 177
+WB is accurate for instruction 175
+Fetch is accurate for instruction 180
+memory rd/wr is accurate for instruction 177
+Decoder is accurate for instruction 179
+Alu is accurate for instruction 178
+WB is accurate for instruction 176
+memory rd/wr is accurate for instruction 178
+Fetch is accurate for instruction 181
+Decoder is accurate for instruction 180
+Alu is accurate for instruction 179
+WB is accurate for instruction 177
+Fetch is accurate for instruction 182
+memory rd/wr is accurate for instruction 179
+Decoder is accurate for instruction 181
+Alu is accurate for instruction 180
+WB is accurate for instruction 178
+memory rd/wr is accurate for instruction 180
+Fetch is accurate for instruction 183
+Decoder is accurate for instruction 182
+Alu is accurate for instruction 181
+WB is accurate for instruction 179
+Fetch is accurate for instruction 184
+memory rd/wr is accurate for instruction 181
+Decoder is accurate for instruction 183
+Alu is accurate for instruction 182
+WB is accurate for instruction 180
+memory rd/wr is accurate for instruction 182
+Fetch is accurate for instruction 185
+Decoder is accurate for instruction 184
+Alu is accurate for instruction 183
+WB is accurate for instruction 181
+Fetch is accurate for instruction 186
+memory rd/wr is accurate for instruction 183
+Decoder is accurate for instruction 185
+Alu is accurate for instruction 184
+WB is accurate for instruction 182
+memory rd/wr is accurate for instruction 184
+Fetch is accurate for instruction 187
+Decoder is accurate for instruction 186
+Alu is accurate for instruction 185
+WB is accurate for instruction 183
+Fetch is accurate for instruction 188
+memory rd/wr is accurate for instruction 185
+Decoder is accurate for instruction 187
+Alu is accurate for instruction 186
+WB is accurate for instruction 184
+memory rd/wr is accurate for instruction 186
+Fetch is accurate for instruction 189
+Decoder is accurate for instruction 188
+Alu is accurate for instruction 187
+WB is accurate for instruction 185
+Fetch is accurate for instruction 190
+memory rd/wr is accurate for instruction 187
+Decoder is accurate for instruction 189
+Alu is accurate for instruction 188
+WB is accurate for instruction 186
+memory rd/wr is accurate for instruction 188
+Fetch is accurate for instruction 191
+Decoder is accurate for instruction 190
+Alu is accurate for instruction 189
+WB is accurate for instruction 187
+Fetch is accurate for instruction 192
+memory rd/wr is accurate for instruction 189
+Decoder is accurate for instruction 191
+Alu is accurate for instruction 190
+WB is accurate for instruction 188
+memory rd/wr is accurate for instruction 190
+Fetch is accurate for instruction 193
+Decoder is accurate for instruction 192
+Alu is accurate for instruction 191
+WB is accurate for instruction 189
+Fetch is accurate for instruction 194
+memory rd/wr is accurate for instruction 191
+Decoder is accurate for instruction 193
+Alu is accurate for instruction 192
+WB is accurate for instruction 190
+memory rd/wr is accurate for instruction 192
+Fetch is accurate for instruction 195
+Decoder is accurate for instruction 194
+Alu is accurate for instruction 193
+WB is accurate for instruction 191
+Fetch is accurate for instruction 196
+memory rd/wr is accurate for instruction 193
+Decoder is accurate for instruction 195
+Alu is accurate for instruction 194
+WB is accurate for instruction 192
+memory rd/wr is accurate for instruction 194
+Fetch is accurate for instruction 197
+Decoder is accurate for instruction 196
+Alu is accurate for instruction 195
+WB is accurate for instruction 193
+Fetch is accurate for instruction 198
+memory rd/wr is accurate for instruction 195
+Decoder is accurate for instruction 197
+Alu is accurate for instruction 196
+WB is accurate for instruction 194
+memory rd/wr is accurate for instruction 196
+Fetch is accurate for instruction 199
+Decoder is accurate for instruction 198
+Alu is accurate for instruction 197
+WB is accurate for instruction 195
+Fetch is accurate for instruction 200
+memory rd/wr is accurate for instruction 197
+Decoder is accurate for instruction 199
+Alu is accurate for instruction 198
+WB is accurate for instruction 196
+memory rd/wr is accurate for instruction 198
+Fetch is accurate for instruction 201
+Decoder is accurate for instruction 200
+Alu is accurate for instruction 199
+WB is accurate for instruction 197
+Fetch is accurate for instruction 202
+memory rd/wr is accurate for instruction 199
+Decoder is accurate for instruction 201
+Alu is accurate for instruction 200
+WB is accurate for instruction 198
+memory rd/wr is accurate for instruction 200
+Fetch is accurate for instruction 203
+Decoder is accurate for instruction 202
+Alu is accurate for instruction 201
+WB is accurate for instruction 199
+Fetch is accurate for instruction 204
+memory rd/wr is accurate for instruction 201
+Decoder is accurate for instruction 203
+Alu is accurate for instruction 202
+WB is accurate for instruction 200
+memory rd/wr is accurate for instruction 202
+Fetch is accurate for instruction 205
+Decoder is accurate for instruction 204
+Alu is accurate for instruction 203
+WB is accurate for instruction 201
+Fetch is accurate for instruction 206
+memory rd/wr is accurate for instruction 203
+Decoder is accurate for instruction 205
+Alu is accurate for instruction 204
+WB is accurate for instruction 202
+memory rd/wr is accurate for instruction 204
+Fetch is accurate for instruction 207
+Decoder is accurate for instruction 206
+Alu is accurate for instruction 205
+WB is accurate for instruction 203
+Fetch is accurate for instruction 208
+memory rd/wr is accurate for instruction 205
+Decoder is accurate for instruction 207
+Alu is accurate for instruction 206
+WB is accurate for instruction 204
+memory rd/wr is accurate for instruction 206
+Fetch is accurate for instruction 209
+Decoder is accurate for instruction 208
+Alu is accurate for instruction 207
+WB is accurate for instruction 205
+Fetch is accurate for instruction 210
+memory rd/wr is accurate for instruction 207
+Decoder is accurate for instruction 209
+Alu is accurate for instruction 208
+WB is accurate for instruction 206
+memory rd/wr is accurate for instruction 208
+Fetch is accurate for instruction 211
+Decoder is accurate for instruction 210
+Alu is accurate for instruction 209
+WB is accurate for instruction 207
+Fetch is accurate for instruction 212
+memory rd/wr is accurate for instruction 209
+Decoder is accurate for instruction 211
+Alu is accurate for instruction 210
+WB is accurate for instruction 208
+memory rd/wr is accurate for instruction 210
+Fetch is accurate for instruction 213
+Decoder is accurate for instruction 212
+Alu is accurate for instruction 211
+WB is accurate for instruction 209
+Fetch is accurate for instruction 214
+memory rd/wr is accurate for instruction 211
+Decoder is accurate for instruction 213
+Alu is accurate for instruction 212
+WB is accurate for instruction 210
+memory rd/wr is accurate for instruction 212
+Fetch is accurate for instruction 215
+Decoder is accurate for instruction 214
+Alu is accurate for instruction 213
+WB is accurate for instruction 211
+Fetch is accurate for instruction 216
+memory rd/wr is accurate for instruction 213
+Decoder is accurate for instruction 215
+Alu is accurate for instruction 214
+WB is accurate for instruction 212
+memory rd/wr is accurate for instruction 214
+Decoder is accurate for instruction 216
+Alu is accurate for instruction 215
+WB is accurate for instruction 213
+memory rd/wr is accurate for instruction 215
+Alu is accurate for instruction 216
+WB is accurate for instruction 214
+memory rd/wr is accurate for instruction 216
+WB is accurate for instruction 215
+WB is accurate for instruction 216

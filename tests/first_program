@@ -1,0 +1,50 @@
+addi $r1,$r0,0x0001
+addi $r2,$r0,0x0002
+addi $r3,$r0,0x0003
+addi $r4,$r0,0x0004
+addi $r5,$r0,0x0005
+addi $r6,$r0,0x0006
+addi $r7,$r0,0x0007
+addi $r8,$r0,0x0008
+addi $r9,$r0,0x0009
+addi $r10,$r0,0x000a
+addi $r11,$r0,0x000b
+addi $r12,$r0,0x000c
+addi $r13,$r0,0x000d
+addi $r14,$r0,0x000e
+addi $r15,$r0,0x000f
+addi $r16,$r0,0x0010
+addi $r17,$r0,0x0011
+addi $r18,$r0,0x0012
+addi $r19,$r0,0x0013
+addi $r20,$r0,0x0014
+addi $r21,$r0,0x0015
+addi $r22,$r0,0x0016
+addi $r23,$r0,0x0017
+addi $r24,$r0,0x0018
+addi $r25,$r0,0x0019
+addi $r26,$r0,0x001a
+addi $r27,$r0,0x001b
+addi $r28,$r0,0x001c
+addi $r30,$r0,0x001e
+addi $r31,$r0,0x001f
+addi $r29,$r0,0x001d
+sub $r3,$r21,$r4
+and $r7,$r24,$r8
+add $r2,$r31,$r1
+or $r9,$r22,$r10
+xor $r2,$r31,$r1
+nor $r3,$r28,$r4
+sll $r5,$r26,6
+srl $r7,$r24,8
+sra $r9,$r22,10
+sllv $r2,$r31,$r1
+srlv $r3,$r28,$r4
+srav $r5,$r26,$r6
+slt $r7,$r24,$r8
+slti $r3,$r0,0x7003
+
+
+
+
+
