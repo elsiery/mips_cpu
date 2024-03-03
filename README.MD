@@ -86,19 +86,13 @@
 * "pmod" directory contains python files.
 * "vmod" directory contains verilog files.
 * "tests" directory contains test programs used to test python model and verilog model.
-##NOTE
+## NOTE
 * Data hazards and control hazards are not taken care in this release.
-###TODO
--[] Hazard detection implementation
--[] Data forwarding implementation
--[] Branch instructions support
--[] j-type instruction support
-
-
-
-
-
-
+### TODO
+- [ ] Hazard detection implementation
+- [ ] Data forwarding implementation
+- [ ] Branch instructions support
+- [ ] j-type instruction support
 
 
 
