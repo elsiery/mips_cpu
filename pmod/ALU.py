@@ -58,12 +58,12 @@ def ALU(i_op_1, i_op_2, i_alu_op,o_exception, o_result):
 
     @always_comb
     def exception_detect():
-        if ((i_alu_op == 32)):
+        if ((i_alu_op == 3)):
             if((i_op_1.signed()+i_op_2.signed() > 2147483647) | (i_op_1.signed()+i_op_2.signed() < -2147483648)):
                 o_exception.next = 1
             else:
                 o_exception.next = 0
-        elif ((i_alu_op == 34)):
+        elif ((i_alu_op == 5)):
             if((i_op_1.signed()-i_op_2.signed() > 2147483647) | (i_op_1.signed()-i_op_2.signed() < -2147483648)):
                 o_exception.next = 1
             else:
