@@ -36,9 +36,9 @@
 |   sub             |   34      |sub  $rd, $rs, $rt  | R[$rd]<-R[$rs]-R[$rt]  | signed,exception on ovf|
 |   subu            |   35      |subu $rd, $rs, $rt  | R[$rd]<-R[$rs]-R[$rt]  | unsigned      |
 |   and             |   36      |and  $rd, $rs, $rt  | R[$rd]<-R[$rs]&R[$rt]  |               |
-|   or              |   37      |or   $rd, $rs, $rt  | R[$rd]<-R[$rs]|R[$rt]  |               |
+|   or              |   37      |or   $rd, $rs, $rt  | R[$rd]<-R[$rs]\|R[$rt] |               |
 |   xor             |   38      |xor  $rd, $rs, $rt  | R[$rd]<-R[$rs]^R[$rt]  |               |
-|   nor             |   39      |nor  $rd, $rs, $rt  | R[$rd]<-~(R[$rs]|R[$rt]|               |
+|   nor             |   39      |nor  $rd, $rs, $rt  |R[$rd]<-~(R[$rs]\|R[$rt])|               |
 |   slt             |   42      |slt  $rd, $rs, $rt  | R[$rd]<-R[$rs]<R[$rt]  |signed         |
 |   sltu            |   43      |sltu $rd, $rs, $rt  | R[$rd]<-R[$rs]<R[$rt]  |unsigned       |
 
@@ -61,7 +61,7 @@
 |   slti            |  10       |slti  $rt, $rs,imm| R[$rt] <-R[$rs]<SE(imm)                | signed        |
 |   sltiu           |  11       |sltiu $rt, $rs,imm| R[$rt] <-R[$rs]<SE(imm)                | unsigned      |
 |   andi            |  12       |andi  $rt, $rs,imm| R[$rt] <-R[$rs]&ZP(imm)                |               |
-|   ori             |  13       |ori   $rt, $rs,imm| R[$rt] <-R[$rs]|ZP(imm)                |               |
+|   ori             |  13       |ori   $rt, $rs,imm| R[$rt] <-R[$rs]\|ZP(imm)               |               |
 |   xori            |  14       |xori  $rt, $rs,imm| R[$rt] <-R[$rs]^ZP(imm)                |               |
 |   lui             |  15       |lui   $rt, imm    | R[$rt]<-{imm,16'd0}                    |               |
 |   lb              |  32       |lb    $rt,imm($rs)| R[$rt]<-SE(M(R[$rs]+SE(imm))[7:0])     |               | 
@@ -77,3 +77,12 @@
 * ZP means "zero padding"
 * R[\*] means data from reg file
 * M[\*] means data memory
+* The locations of pipes are as follows 
+    1. between fetch and decode stages.
+    2. between decode and alu stages.
+    3. between alu and mem_rd_wr stages.
+    4. between mem_rd_wr and wb stages.
+
+* "pmod" directory contains python files.
+* "vmod" directory contains verilog files.
+* "tests" directory contains test programs used to test python model and verilog model.
