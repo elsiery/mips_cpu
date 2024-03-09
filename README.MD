@@ -71,7 +71,7 @@
 |   lhu             |  37       |lhu   $rt,imm($rs)| R[$rt]<-{16'd0,M(R[$rs]+SE(imm))[15:0]}|               |    
 |   sb              |  40       |sb    $rt,imm($rs)| M(R[$rs]+SE(imm))[7:0] <- R[$rt][7:0]  |               |
 |   sh              |  41       |sh    $rt,imm($rs)| M(R[$rs]+SE(imm))[15:0]<- R[$rt][15:0] |               |
-|   sw              |  43       |sw    $rt,imm($rs)| M(R[$rs]+SE(imm))[15:0]<- R[$rt][15:0] |               |
+|   sw              |  43       |sw    $rt,imm($rs)| M(R[$rs]+SE(imm))<- R[$rt]             |               |
 
 * SE means "sign extention"
 * ZP means "zero padding"
