@@ -50,7 +50,7 @@
 |   6 bits  | 5 bits | 5 bits| 16 bits|
 | 31 -   26 | 25 - 21| 20 -16| 15 - 0 |  
 
-* In R-type instructions the following instructions are supported.
+* In I-type instructions the following instructions are supported.
 * Opcode is > 0 for all I-type instructions.
 * this type of instruction is decoded by "opcode" field.
 
